@@ -1,6 +1,6 @@
 # Google Maps Scraper with Streamlit UI
 
-Google Mapsの店舗情報を、指定条件（市町村名・業態・評価）に基づいて自動取得し、CSVとして出力できるStreamlitアプリケーションです。Google Places APIを利用しています。
+Google Mapsの店舗情報を、指定条件（市町村名・業態・評価）に基づいて自動取得し、CSVとして出力できるWebアプリケーションです。Google Places APIを利用しています。
 
 ---
 
